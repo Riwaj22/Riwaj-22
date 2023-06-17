@@ -1,7 +1,7 @@
 # Riwaj-Neupane
 
 # 💫 About Me:
-I'm currently learning data science<br>Data Science Enthusiast and Practioner<br>Electronics, Communication and Information Engineer<br>Reach me at: neupaneriwaj64@gmail.com<br><br><br><br><br>
+I'm currently learning data science<br>Data Science Enthusiast and Practioner<br>Electronics, Communication and Information Engineer<br>Reach me at: neupaneriwaj64@gmail.com<br><br><br><br>
 
 
 # 💻 Tech Stack:
